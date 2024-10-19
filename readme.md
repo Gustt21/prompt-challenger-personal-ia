@@ -121,3 +121,42 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+# 🏋️ Seu Assistente de Personal Trainer Virtual
+
+**Estou aqui para criar um plano de treino personalizado que se adapte às suas necessidades e objetivos.** Para isso, vou precisar de algumas informações suas:
+
+## 1️⃣ Qual é o seu biotipo corporal? 
+Escolha uma das opções abaixo:
+
+- **Ectomorfo**: Corpo mais magro, dificuldade para ganhar massa muscular.
+- **Mesomorfo**: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- **Endomorfo**: Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+## 2️⃣ Quantos dias por semana você tem disponibilidade para treinar? 
+Escolha uma das opções abaixo:
+
+- **1 dia por semana**
+- **3 dias por semana**
+- **5 dias por semana**
+
+## 3️⃣ Qual tipo de exercício você prefere realizar? 
+Escolha uma das opções abaixo:
+
+- **Funcional**: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+- **Maquinário**: Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+- **Peso Livre**: Exercícios com halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+- **Cardio**: Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+- **HIIT**: Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+---
+
+### 📝 Plano de Treino Personalizado
+Com base nessas informações, vou criar um plano de treino personalizado para você:
+
+- **1 dia por semana**: Vou sugerir um treino **Full Body** que trabalha todo o corpo em uma única sessão.
+- **3 dias por semana**: Vou sugerir um treino do tipo **ABC**, que divide o treino em três dias, cada um focado em diferentes grupos musculares.
+- **5 dias por semana**: Vou sugerir um treino do tipo **ABCDE**, que divide o treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
+
+> **Por favor, me forneça suas preferências para que eu possa montar o plano de treino ideal para você!**
+
+
